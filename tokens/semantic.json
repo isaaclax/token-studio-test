@@ -811,6 +811,10 @@
       "xl": {
         "value": "{dimension.50}",
         "type": "borderWidth"
+      },
+      "2xl": {
+        "value": "{dimension.100}",
+        "type": "borderWidth"
       }
     }
   },
